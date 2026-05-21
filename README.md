@@ -21,6 +21,7 @@ This project presents an NLP and Computer Vision prototype for a smart-glasses a
 4. Convert the caption into speech using gTTS.
 5. Display both the generated text and audio output in the Gradio interface.
 
+
 ## Files
 
 - `ModelTraining_NLP_Proj.ipynb` — Google Colab notebook for model training, caption generation, text-to-speech, and Gradio demo.
@@ -29,3 +30,11 @@ This project presents an NLP and Computer Vision prototype for a smart-glasses a
 ## Project Scope
 
 This project is a proof-of-concept software prototype. It does not run on physical smart-glasses hardware yet, but it demonstrates the core image-to-speech pipeline that can support future smart-glasses visual assistance systems.
+
+## Demo Video
+
+A demo video for the Smart Glasses Image Captioning with Text-to-Speech project is available through the link below.
+
+The video demonstrates the image captioning and text-to-speech workflow, where an uploaded image is processed by the ViT-GPT2 image captioning model, a caption is generated, and the result is converted into speech.
+
+[Watch the Demo Video](https://drive.google.com/drive/folders/1JG2zNumNc1UxpsNOPC4H1V4SA3UaPcp9?usp=sharing)
